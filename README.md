@@ -3,4 +3,4 @@
 <div>Nim: 231031083 </div>
 <div>Prodi: Sistem Informasi C </div>
 
-*Praktikum 1 : Pengenalan Variabel  `praktikum-c1.py`
+* Praktikum 1 : Pengenalan Variabel  `praktikum-c1.py`
