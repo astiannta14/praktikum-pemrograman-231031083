@@ -16,11 +16,3 @@
 * Praktikum 11 : Fungsi Rekursif  `praktikum-11.py`
 * Praktikum 12 : Fungsi Rekursif  `praktikum-12.py`
 * Praktikum 13 : Fungsi Rekursif fibonacci `praktikum-13.py`
-* Latihan 1 : percabangan if else `Latihan-1.py`
-* Latihan 2 : percabangan if else `Latihan-2.py`
-* Latihan 3 : percabangan if else `Latihan-3.py`
-* Latihan 4 : percabangan if else `Latihan-4.py`
-* Tugas 9 : Dictionaries`tugas-9.py`
-* Tugas ganjil : Pengecekan Kelipatan Bilangan Penjumlahan dan Pengurangan Waktu Dengan Fungsi `tugas-Ganjil.py`
-* Tugas ganjil genap : Pengecekan Kelipatan Bilangan Penjumlahan dan Pengurangan Waktu Dengan Fungsi `tugas-ganjil-genap.py`
-* UTS: Ulangan Tengah Semester `uts.py`
